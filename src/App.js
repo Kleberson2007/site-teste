@@ -1,12 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
+import './style.css'
+import React, { useState } from 'react';
 
-function App() {
+export default function App() {
+
+
+
   return (
-    <div className="">
-
+    <div className=''>
+        oiiiiiiiiiiiiiiiiii
     </div>
   );
 }
-
-export default App;
