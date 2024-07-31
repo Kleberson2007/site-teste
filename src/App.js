@@ -6,8 +6,13 @@ export default function App() {
 
 
   return (
-    <div className=''>
-        oiiiiiiiiiiiiiiiiii
-    </div>
+    <header>
+      <div className='opções'>
+          
+      </div>
+      <div className='icons-e-opções'>
+
+      </div>
+    </header>
   );
 }
