@@ -4,13 +4,15 @@
     color: white;
 }
 
+
+
 header {
     display: flex;
     align-items: center;
     justify-content: space-between;
     flex-direction: row;
     width: 100vw;
-    height: 10vw;
+    height: 10vh;
     background-color: black;
 }
 
@@ -19,7 +21,16 @@ header {
     flex-direction: row;
     align-items: flex-end;
     justify-content: space-around;
-    width: 10pw;
-    padding: 10px;
+    width: 25vh;
 }
 
+.opções {
+    width: 75%;
+}
+
+#exemplo1,
+#exemplo2,
+#exemplo3 {
+    border: 3px solid white;
+    padding: 10px;
+}
