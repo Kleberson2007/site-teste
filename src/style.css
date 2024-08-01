@@ -1,6 +1,7 @@
 * {
     margin: 0;
     box-sizing: border-box;
+    color: white;
 }
 
 header {
@@ -9,10 +10,16 @@ header {
     justify-content: space-between;
     flex-direction: row;
     width: 100vw;
+    height: 10vw;
+    background-color: black;
 }
 
 .icons {
     display: flex;
     flex-direction: row;
-    margin-right: 10px;
+    align-items: flex-end;
+    justify-content: space-around;
+    width: 10pw;
+    padding: 10px;
 }
+
